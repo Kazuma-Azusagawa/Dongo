@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/boden" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/boden/3rdparty/googletest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/boden/3rdparty/json" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/boden/3rdparty/lottie/lottie-ios" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/boden/3rdparty/yoga" vcs="Git" />
+  </component>
+</project>
