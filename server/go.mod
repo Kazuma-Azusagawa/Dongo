@@ -3,6 +3,7 @@ module server
 go 1.25.4
 
 require (
+	github.com/achille-roussel/go-ffi v0.0.0-20160115051259-d38ff63c1cb0 // indirect
 	github.com/bytedance/sonic v1.14.0 // indirect
 	github.com/bytedance/sonic/loader v0.3.0 // indirect
 	github.com/cloudwego/base64x v0.1.6 // indirect
